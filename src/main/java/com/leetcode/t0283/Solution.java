@@ -1,4 +1,4 @@
-package com.leetcode.t0293;
+package com.leetcode.t0283;
 
 /**
  * @author XliMing
