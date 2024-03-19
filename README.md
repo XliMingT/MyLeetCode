@@ -38,4 +38,4 @@
 - [x] **[310. 最小高度树](https://leetcode.cn/problems/minimum-height-trees)** `已解决` [[笔记]](solution/def/t0310.md) [[代码]](src/main/java/com/leetcode/def/t0310/Solution.java)
 
 #### 3月19日
-- [ ] **[438. 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string)** `` [[笔记]](solution/def/t0438.md) [[代码]](src/main/java/com/leetcode/def/t0438/Solution.java)
+- [x] **[438. 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string)** `已解决` [[笔记]](solution/def/t0438.md) [[代码]](src/main/java/com/leetcode/def/t0438/Solution.java)
