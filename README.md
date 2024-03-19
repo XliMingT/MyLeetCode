@@ -33,3 +33,6 @@
 ### 3月
 #### 3月15日
 - [x] **[LCR 025. 两数相加 II](https://leetcode.cn/problems/lMSNwu)** `已解决` [[笔记]](solution/lcr/t0025.md) [[代码]](src/main/java/com/leetcode/lcr/t0025/Solution.java)
+
+#### 3月17日
+- [x] **[310. 最小高度树](https://leetcode.cn/problems/minimum-height-trees)** `已解决` [[笔记]](solution/def/t0310.md) [[代码]](src/main/java/com/leetcode/def/t0310/Solution.java)
