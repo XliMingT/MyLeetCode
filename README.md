@@ -48,7 +48,7 @@
 <style>
 /* CSS代码 */
 .block {
-  background-color: #f4f7f9;
+  background-color: #EE332F;
   font-size: 90%;
   padding: 2px 5px;
   border-radius: 4px;
@@ -56,19 +56,19 @@
 
 .red {
   color: white;
-  background-color: red;
+  background-color: #ed201d;
 }
 
 
 .orange {
   color: white;
-  background-color: orange;
+  background-color: #ffd633;
 }
 
 
 .green {
   color: white;
-  background-color: green;
+  background-color: #48ad4c;
 }
 
 </style>
