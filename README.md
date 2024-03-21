@@ -6,12 +6,7 @@
 
 ---
 
-## 2023年
-
-### （未归类）
-
-
-
+## （未归类）
 
 - [X]  **[49. 字母异位词分组](https://leetcode.cn/problems/group-anagrams/)** <img align="center" src="media/medium.svg"> <img align="center" src="media/resolved.svg"> [[代码]](src/main/java/com/leetcode/def/t0049/Solution.java)
 - [ ]  **[75. 颜色分类](https://leetcode.cn/problems/sort-colors/)** <img align="center" src="media/medium.svg"> <img align="center" src="media/unresolved.svg">
@@ -33,7 +28,6 @@
 - [X]  **[2038. 如果相邻两个颜色均相同则删除当前颜色](https://leetcode.cn/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color)** <img align="center" src="media/medium.svg"> <img align="center" src="media/resolved.svg"> [[代码]](src/main/java/com/leetcode/def/t2038/Solution.java)
 - [X]  **[2039. 网络空闲的时刻](https://leetcode.cn/problems/the-time-when-the-network-becomes-idle)** <img align="center" src="media/medium.svg"> <img align="center" src="media/resolved.svg"> [[代码]](src/main/java/com/leetcode/def/t2039/Solution.java)
 - [X]  **[2160. 拆分数位后四位数字的最小和](https://leetcode.cn/problems/minimum-sum-of-four-digit-number-after-splitting-digits)** <img align="center" src="media/easy.svg"> <img align="center" src="media/resolved.svg"> [[代码]](src/main/java/com/leetcode/def/t2160/Solution.java)
-
 
 ---
 
