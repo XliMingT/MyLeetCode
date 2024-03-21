@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="16">
+    <rect width="45" height="16" rx="4" fill="#48ad4c"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" dy="0.1em" font-size="12">已解决</text>
+</svg>
